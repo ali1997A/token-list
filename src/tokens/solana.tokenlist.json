@@ -120675,6 +120675,18 @@
       "extensions": {
         "website": "https://nextchapter.to/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HGTifTAWmUKM8UL64duVJ2S26s3oQTqXfTpm7be5sKkU",
+      "symbol": "PUzzY",
+      "name": "Puzzy Caty",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ali1997A/ali/main/1.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {}
     }
   ],
   "version": {
